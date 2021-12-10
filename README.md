@@ -1,4 +1,4 @@
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
+
 
 
 
@@ -7,11 +7,11 @@
 
 
 <div align="center">
-<img src="life.jpg" alt="Pepe" width="170" />
+<img src="life.jpg" alt="Kat" width="170" />
 
-# Bosco Bot
+# Kat-Kristin Bot
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Kat-Kristin Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
@@ -66,7 +66,7 @@ Sorry this repo is for heroku only
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Pepe Sir or we are not responsible for your account, 
+Navaneeth or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
